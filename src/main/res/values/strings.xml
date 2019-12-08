@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DiceGame</string>
+    <string name="player1">First Player</string>
+    <string name="player2">Second Player</string>
+    <string name="score_label">Score</string>
+    <string name="player1_score">0</string>
+    <string name="player2_score">0</string>
+    <string name="instruction">Game starts with first player. Press the leftmost button to go through each player sequentially. Game ends when one of the players score becomes 30</string>
+    <string name="instructions">instructions</string>
+    <string name="play_again">Play again</string>
+    <string name="replay">replay</string>
+    <string name="player1_wins">First player wins</string>
+    <string name="player2_wins">Second player wins</string>
+    <string name="player1Dice1_description">First dice of first player</string>
+    <string name="player1Dice2_description">Second dice of first player</string>
+    <string name="player2Dice1_description">First dice of second player</string>
+    <string name="player2Dice2_description">First dice of second player</string>
+    <string name="last3">last 3 rolled dices of each player</string>
+</resources>
